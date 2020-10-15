@@ -6,7 +6,7 @@
 
 int main() 
 {
-    std::cout << "Hello World!";
-    std::cout << "\n";
+    std::cout << "Hello World!" << std::endl;
+    std::cin.get();
     return 0;
 }
